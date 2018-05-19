@@ -2,6 +2,7 @@ import json
 import lxml
 from pygal.maps.world import World
 from pygal.maps.world import COUNTRIES
+from pygal.style import LightGreenStyle as LGS
 
 filename = 'data.json'
 with open(filename) as dataset:

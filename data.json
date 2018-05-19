@@ -1,0 +1,1574 @@
+[
+{
+"Country Code": "ARB",
+"Country Name": "Arab World",
+"Value": 406452690,
+"Year": 2016
+},
+{
+"Country Code": "CSS",
+"Country Name": "Caribbean small states",
+"Value": 7245472,
+"Year": 2016
+},
+{
+"Country Code": "CEB",
+"Country Name": "Central Europe and the Baltics",
+"Value": 102974082,
+"Year": 2016
+},
+{
+"Country Code": "EAR",
+"Country Name": "Early-demographic dividend",
+"Value": 3170542188,
+"Year": 2016
+},
+{
+"Country Code": "EAS",
+"Country Name": "East Asia & Pacific",
+"Value": 2296786207,
+"Year": 2016
+},
+{
+"Country Code": "EAP",
+"Country Name": "East Asia & Pacific (excluding high income)",
+"Value": 2051431154,
+"Year": 2016
+},
+{
+"Country Code": "TEA",
+"Country Name": "East Asia & Pacific (IDA & IBRD countries)",
+"Value": 2026028438,
+"Year": 2016
+},
+{
+"Country Code": "EMU",
+"Country Name": "Euro area",
+"Value": 340894606,
+"Year": 2016
+},
+{
+"Country Code": "ECS",
+"Country Name": "Europe & Central Asia",
+"Value": 911995305,
+"Year": 2016
+},
+{
+"Country Code": "ECA",
+"Country Name": "Europe & Central Asia (excluding high income)",
+"Value": 417424643,
+"Year": 2016
+},
+{
+"Country Code": "TEC",
+"Country Name": "Europe & Central Asia (IDA & IBRD countries)",
+"Value": 455372659,
+"Year": 2016
+},
+{
+"Country Code": "EUU",
+"Country Name": "European Union",
+"Value": 511497415,
+"Year": 2016
+},
+{
+"Country Code": "FCS",
+"Country Name": "Fragile and conflict affected situations",
+"Value": 505635987,
+"Year": 2016
+},
+{
+"Country Code": "HPC",
+"Country Name": "Heavily indebted poor countries (HIPC)",
+"Value": 744602976,
+"Year": 2016
+},
+{
+"Country Code": "HIC",
+"Country Name": "High income",
+"Value": 1190029421,
+"Year": 2016
+},
+{
+"Country Code": "IBD",
+"Country Name": "IBRD only",
+"Value": 4697247117,
+"Year": 2016
+},
+{
+"Country Code": "IBT",
+"Country Name": "IDA & IBRD total",
+"Value": 6271593092,
+"Year": 2016
+},
+{
+"Country Code": "IDB",
+"Country Name": "IDA blend",
+"Value": 521159393,
+"Year": 2016
+},
+{
+"Country Code": "IDX",
+"Country Name": "IDA only",
+"Value": 1053186582,
+"Year": 2016
+},
+{
+"Country Code": "IDA",
+"Country Name": "IDA total",
+"Value": 1574345975,
+"Year": 2016
+},
+{
+"Country Code": "LTE",
+"Country Name": "Late-demographic dividend",
+"Value": 2262709895,
+"Year": 2016
+},
+{
+"Country Code": "LCN",
+"Country Name": "Latin America & Caribbean",
+"Value": 637664490,
+"Year": 2016
+},
+{
+"Country Code": "LAC",
+"Country Name": "Latin America & Caribbean (excluding high income)",
+"Value": 610136397,
+"Year": 2016
+},
+{
+"Country Code": "TLA",
+"Country Name": "Latin America & the Caribbean (IDA & IBRD countries)",
+"Value": 621534921,
+"Year": 2016
+},
+{
+"Country Code": "LDC",
+"Country Name": "Least developed countries: UN classification",
+"Value": 979387925,
+"Year": 2016
+},
+{
+"Country Code": "LMY",
+"Country Name": "Low & middle income",
+"Value": 6252106157,
+"Year": 2016
+},
+{
+"Country Code": "LIC",
+"Country Name": "Low income",
+"Value": 659272676,
+"Year": 2016
+},
+{
+"Country Code": "LMC",
+"Country Name": "Lower middle income",
+"Value": 3012923806,
+"Year": 2016
+},
+{
+"Country Code": "MEA",
+"Country Name": "Middle East & North Africa",
+"Value": 436720722,
+"Year": 2016
+},
+{
+"Country Code": "MNA",
+"Country Name": "Middle East & North Africa (excluding high income)",
+"Value": 373719055,
+"Year": 2016
+},
+{
+"Country Code": "TMN",
+"Country Name": "Middle East & North Africa (IDA & IBRD countries)",
+"Value": 369167489,
+"Year": 2016
+},
+{
+"Country Code": "MIC",
+"Country Name": "Middle income",
+"Value": 5592833481,
+"Year": 2016
+},
+{
+"Country Code": "NAC",
+"Country Name": "North America",
+"Value": 359479269,
+"Year": 2016
+},
+{
+"Country Code": "OED",
+"Country Name": "OECD members",
+"Value": 1289937319,
+"Year": 2016
+},
+{
+"Country Code": "OSS",
+"Country Name": "Other small states",
+"Value": 29983809,
+"Year": 2016
+},
+{
+"Country Code": "PSS",
+"Country Name": "Pacific island small states",
+"Value": 2388875,
+"Year": 2016
+},
+{
+"Country Code": "PST",
+"Country Name": "Post-demographic dividend",
+"Value": 1102730983,
+"Year": 2016
+},
+{
+"Country Code": "PRE",
+"Country Name": "Pre-demographic dividend",
+"Value": 879292453,
+"Year": 2016
+},
+{
+"Country Code": "SST",
+"Country Name": "Small states",
+"Value": 39618156,
+"Year": 2016
+},
+{
+"Country Code": "SAS",
+"Country Name": "South Asia",
+"Value": 1766383450,
+"Year": 2016
+},
+{
+"Country Code": "TSA",
+"Country Name": "South Asia (IDA & IBRD)",
+"Value": 1766383450,
+"Year": 2016
+},
+{
+"Country Code": "SSF",
+"Country Name": "Sub-Saharan Africa",
+"Value": 1033106135,
+"Year": 2016
+},
+{
+"Country Code": "SSA",
+"Country Name": "Sub-Saharan Africa (excluding high income)",
+"Value": 1033011458,
+"Year": 2016
+},
+{
+"Country Code": "TSS",
+"Country Name": "Sub-Saharan Africa (IDA & IBRD countries)",
+"Value": 1033106135,
+"Year": 2016
+},
+{
+"Country Code": "UMC",
+"Country Name": "Upper middle income",
+"Value": 2579909675,
+"Year": 2016
+},
+{
+"Country Code": "WLD",
+"Country Name": "World",
+"Value": 7442135578,
+"Year": 2016
+},
+{
+"Country Code": "AFG",
+"Country Name": "Afghanistan",
+"Value": 34656032,
+"Year": 2016
+},
+{
+"Country Code": "ALB",
+"Country Name": "Albania",
+"Value": 2876101,
+"Year": 2016
+},
+{
+"Country Code": "DZA",
+"Country Name": "Algeria",
+"Value": 40606052,
+"Year": 2016
+},
+{
+"Country Code": "ASM",
+"Country Name": "American Samoa",
+"Value": 55599,
+"Year": 2016
+},
+{
+"Country Code": "AND",
+"Country Name": "Andorra",
+"Value": 77281,
+"Year": 2016
+},
+{
+"Country Code": "AGO",
+"Country Name": "Angola",
+"Value": 28813463,
+"Year": 2016
+},
+{
+"Country Code": "ATG",
+"Country Name": "Antigua and Barbuda",
+"Value": 100963,
+"Year": 2016
+},
+{
+"Country Code": "ARG",
+"Country Name": "Argentina",
+"Value": 43847430,
+"Year": 2016
+},
+{
+"Country Code": "ARM",
+"Country Name": "Armenia",
+"Value": 2924816,
+"Year": 2016
+},
+{
+"Country Code": "ABW",
+"Country Name": "Aruba",
+"Value": 104822,
+"Year": 2016
+},
+{
+"Country Code": "AUS",
+"Country Name": "Australia",
+"Value": 24127159,
+"Year": 2016
+},
+{
+"Country Code": "AUT",
+"Country Name": "Austria",
+"Value": 8747358,
+"Year": 2016
+},
+{
+"Country Code": "AZE",
+"Country Name": "Azerbaijan",
+"Value": 9762274,
+"Year": 2016
+},
+{
+"Country Code": "BHS",
+"Country Name": "Bahamas, The",
+"Value": 391232,
+"Year": 2016
+},
+{
+"Country Code": "BHR",
+"Country Name": "Bahrain",
+"Value": 1425171,
+"Year": 2016
+},
+{
+"Country Code": "BGD",
+"Country Name": "Bangladesh",
+"Value": 162951560,
+"Year": 2016
+},
+{
+"Country Code": "BRB",
+"Country Name": "Barbados",
+"Value": 284996,
+"Year": 2016
+},
+{
+"Country Code": "BLR",
+"Country Name": "Belarus",
+"Value": 9507120,
+"Year": 2016
+},
+{
+"Country Code": "BEL",
+"Country Name": "Belgium",
+"Value": 11348159,
+"Year": 2016
+},
+{
+"Country Code": "BLZ",
+"Country Name": "Belize",
+"Value": 366954,
+"Year": 2016
+},
+{
+"Country Code": "BEN",
+"Country Name": "Benin",
+"Value": 10872298,
+"Year": 2016
+},
+{
+"Country Code": "BMU",
+"Country Name": "Bermuda",
+"Value": 65331,
+"Year": 2016
+},
+{
+"Country Code": "BTN",
+"Country Name": "Bhutan",
+"Value": 797765,
+"Year": 2016
+},
+{
+"Country Code": "BOL",
+"Country Name": "Bolivia",
+"Value": 10887882,
+"Year": 2016
+},
+{
+"Country Code": "BIH",
+"Country Name": "Bosnia and Herzegovina",
+"Value": 3516816,
+"Year": 2016
+},
+{
+"Country Code": "BWA",
+"Country Name": "Botswana",
+"Value": 2250260,
+"Year": 2016
+},
+{
+"Country Code": "BRA",
+"Country Name": "Brazil",
+"Value": 207652865,
+"Year": 2016
+},
+{
+"Country Code": "VGB",
+"Country Name": "British Virgin Islands",
+"Value": 30661,
+"Year": 2016
+},
+{
+"Country Code": "BRN",
+"Country Name": "Brunei Darussalam",
+"Value": 423196,
+"Year": 2016
+},
+{
+"Country Code": "BGR",
+"Country Name": "Bulgaria",
+"Value": 7127822,
+"Year": 2016
+},
+{
+"Country Code": "BFA",
+"Country Name": "Burkina Faso",
+"Value": 18646433,
+"Year": 2016
+},
+{
+"Country Code": "BDI",
+"Country Name": "Burundi",
+"Value": 10524117,
+"Year": 2016
+},
+{
+"Country Code": "CPV",
+"Country Name": "Cabo Verde",
+"Value": 539560,
+"Year": 2016
+},
+{
+"Country Code": "KHM",
+"Country Name": "Cambodia",
+"Value": 15762370,
+"Year": 2016
+},
+{
+"Country Code": "CMR",
+"Country Name": "Cameroon",
+"Value": 23439189,
+"Year": 2016
+},
+{
+"Country Code": "CAN",
+"Country Name": "Canada",
+"Value": 36286425,
+"Year": 2016
+},
+{
+"Country Code": "CYM",
+"Country Name": "Cayman Islands",
+"Value": 60765,
+"Year": 2016
+},
+{
+"Country Code": "CAF",
+"Country Name": "Central African Republic",
+"Value": 4594621,
+"Year": 2016
+},
+{
+"Country Code": "TCD",
+"Country Name": "Chad",
+"Value": 14452543,
+"Year": 2016
+},
+{
+"Country Code": "CHI",
+"Country Name": "Channel Islands",
+"Value": 164541,
+"Year": 2016
+},
+{
+"Country Code": "CHL",
+"Country Name": "Chile",
+"Value": 17909754,
+"Year": 2016
+},
+{
+"Country Code": "CHN",
+"Country Name": "China",
+"Value": 1378665000,
+"Year": 2016
+},
+{
+"Country Code": "COL",
+"Country Name": "Colombia",
+"Value": 48653419,
+"Year": 2016
+},
+{
+"Country Code": "COM",
+"Country Name": "Comoros",
+"Value": 795601,
+"Year": 2016
+},
+{
+"Country Code": "COD",
+"Country Name": "Congo, Dem. Rep.",
+"Value": 78736153,
+"Year": 2016
+},
+{
+"Country Code": "COG",
+"Country Name": "Congo, Rep.",
+"Value": 5125821,
+"Year": 2016
+},
+{
+"Country Code": "CRI",
+"Country Name": "Costa Rica",
+"Value": 4857274,
+"Year": 2016
+},
+{
+"Country Code": "CIV",
+"Country Name": "Cote d\"Ivoire",
+"Value": 23695919,
+"Year": 2016
+},
+{
+"Country Code": "HRV",
+"Country Name": "Croatia",
+"Value": 4170600,
+"Year": 2016
+},
+{
+"Country Code": "CUB",
+"Country Name": "Cuba",
+"Value": 11475982,
+"Year": 2016
+},
+{
+"Country Code": "CUW",
+"Country Name": "Curacao",
+"Value": 159999,
+"Year": 2016
+},
+{
+"Country Code": "CYP",
+"Country Name": "Cyprus",
+"Value": 1170125,
+"Year": 2016
+},
+{
+"Country Code": "CZE",
+"Country Name": "Czech Republic",
+"Value": 10561633,
+"Year": 2016
+},
+{
+"Country Code": "DNK",
+"Country Name": "Denmark",
+"Value": 5731118,
+"Year": 2016
+},
+{
+"Country Code": "DJI",
+"Country Name": "Djibouti",
+"Value": 942333,
+"Year": 2016
+},
+{
+"Country Code": "DMA",
+"Country Name": "Dominica",
+"Value": 73543,
+"Year": 2016
+},
+{
+"Country Code": "DOM",
+"Country Name": "Dominican Republic",
+"Value": 10648791,
+"Year": 2016
+},
+{
+"Country Code": "ECU",
+"Country Name": "Ecuador",
+"Value": 16385068,
+"Year": 2016
+},
+{
+"Country Code": "EGY",
+"Country Name": "Egypt, Arab Rep.",
+"Value": 95688681,
+"Year": 2016
+},
+{
+"Country Code": "SLV",
+"Country Name": "El Salvador",
+"Value": 6344722,
+"Year": 2016
+},
+{
+"Country Code": "GNQ",
+"Country Name": "Equatorial Guinea",
+"Value": 1221490,
+"Year": 2016
+},
+{
+"Country Code": "EST",
+"Country Name": "Estonia",
+"Value": 1316481,
+"Year": 2016
+},
+{
+"Country Code": "ETH",
+"Country Name": "Ethiopia",
+"Value": 102403196,
+"Year": 2016
+},
+{
+"Country Code": "FRO",
+"Country Name": "Faroe Islands",
+"Value": 49117,
+"Year": 2016
+},
+{
+"Country Code": "FJI",
+"Country Name": "Fiji",
+"Value": 898760,
+"Year": 2016
+},
+{
+"Country Code": "FIN",
+"Country Name": "Finland",
+"Value": 5495096,
+"Year": 2016
+},
+{
+"Country Code": "FRA",
+"Country Name": "France",
+"Value": 66896109,
+"Year": 2016
+},
+{
+"Country Code": "PYF",
+"Country Name": "French Polynesia",
+"Value": 280208,
+"Year": 2016
+},
+{
+"Country Code": "GAB",
+"Country Name": "Gabon",
+"Value": 1979786,
+"Year": 2016
+},
+{
+"Country Code": "GMB",
+"Country Name": "Gambia, The",
+"Value": 2038501,
+"Year": 2016
+},
+{
+"Country Code": "GEO",
+"Country Name": "Georgia",
+"Value": 3719300,
+"Year": 2016
+},
+{
+"Country Code": "DEU",
+"Country Name": "Germany",
+"Value": 82667685,
+"Year": 2016
+},
+{
+"Country Code": "GHA",
+"Country Name": "Ghana",
+"Value": 28206728,
+"Year": 2016
+},
+{
+"Country Code": "GIB",
+"Country Name": "Gibraltar",
+"Value": 34408,
+"Year": 2016
+},
+{
+"Country Code": "GRC",
+"Country Name": "Greece",
+"Value": 10746740,
+"Year": 2016
+},
+{
+"Country Code": "GRL",
+"Country Name": "Greenland",
+"Value": 56186,
+"Year": 2016
+},
+{
+"Country Code": "GRD",
+"Country Name": "Grenada",
+"Value": 107317,
+"Year": 2016
+},
+{
+"Country Code": "GUM",
+"Country Name": "Guam",
+"Value": 162896,
+"Year": 2016
+},
+{
+"Country Code": "GTM",
+"Country Name": "Guatemala",
+"Value": 16582469,
+"Year": 2016
+},
+{
+"Country Code": "GIN",
+"Country Name": "Guinea",
+"Value": 12395924,
+"Year": 2016
+},
+{
+"Country Code": "GNB",
+"Country Name": "Guinea-Bissau",
+"Value": 1815698,
+"Year": 2016
+},
+{
+"Country Code": "GUY",
+"Country Name": "Guyana",
+"Value": 773303,
+"Year": 2016
+},
+{
+"Country Code": "HTI",
+"Country Name": "Haiti",
+"Value": 10847334,
+"Year": 2016
+},
+{
+"Country Code": "HND",
+"Country Name": "Honduras",
+"Value": 9112867,
+"Year": 2016
+},
+{
+"Country Code": "HKG",
+"Country Name": "Hong Kong SAR, China",
+"Value": 7346700,
+"Year": 2016
+},
+{
+"Country Code": "HUN",
+"Country Name": "Hungary",
+"Value": 9817958,
+"Year": 2016
+},
+{
+"Country Code": "ISL",
+"Country Name": "Iceland",
+"Value": 334252,
+"Year": 2016
+},
+{
+"Country Code": "IND",
+"Country Name": "India",
+"Value": 1324171354,
+"Year": 2016
+},
+{
+"Country Code": "IDN",
+"Country Name": "Indonesia",
+"Value": 261115456,
+"Year": 2016
+},
+{
+"Country Code": "IRN",
+"Country Name": "Iran, Islamic Rep.",
+"Value": 80277428,
+"Year": 2016
+},
+{
+"Country Code": "IRQ",
+"Country Name": "Iraq",
+"Value": 37202572,
+"Year": 2016
+},
+{
+"Country Code": "IRL",
+"Country Name": "Ireland",
+"Value": 4773095,
+"Year": 2016
+},
+{
+"Country Code": "IMN",
+"Country Name": "Isle of Man",
+"Value": 83737,
+"Year": 2016
+},
+{
+"Country Code": "ISR",
+"Country Name": "Israel",
+"Value": 8547100,
+"Year": 2016
+},
+{
+"Country Code": "ITA",
+"Country Name": "Italy",
+"Value": 60600590,
+"Year": 2016
+},
+{
+"Country Code": "JAM",
+"Country Name": "Jamaica",
+"Value": 2881355,
+"Year": 2016
+},
+{
+"Country Code": "JPN",
+"Country Name": "Japan",
+"Value": 126994511,
+"Year": 2016
+},
+{
+"Country Code": "JOR",
+"Country Name": "Jordan",
+"Value": 9455802,
+"Year": 2016
+},
+{
+"Country Code": "KAZ",
+"Country Name": "Kazakhstan",
+"Value": 17797032,
+"Year": 2016
+},
+{
+"Country Code": "KEN",
+"Country Name": "Kenya",
+"Value": 48461567,
+"Year": 2016
+},
+{
+"Country Code": "KIR",
+"Country Name": "Kiribati",
+"Value": 114395,
+"Year": 2016
+},
+{
+"Country Code": "PRK",
+"Country Name": "Korea, Dem. People’s Rep.",
+"Value": 25368620,
+"Year": 2016
+},
+{
+"Country Code": "KOR",
+"Country Name": "Korea, Rep.",
+"Value": 51245707,
+"Year": 2016
+},
+{
+"Country Code": "XKX",
+"Country Name": "Kosovo",
+"Value": 1816200,
+"Year": 2016
+},
+{
+"Country Code": "KWT",
+"Country Name": "Kuwait",
+"Value": 4052584,
+"Year": 2016
+},
+{
+"Country Code": "KGZ",
+"Country Name": "Kyrgyz Republic",
+"Value": 6082700,
+"Year": 2016
+},
+{
+"Country Code": "LAO",
+"Country Name": "Lao PDR",
+"Value": 6758353,
+"Year": 2016
+},
+{
+"Country Code": "LVA",
+"Country Name": "Latvia",
+"Value": 1960424,
+"Year": 2016
+},
+{
+"Country Code": "LBN",
+"Country Name": "Lebanon",
+"Value": 6006668,
+"Year": 2016
+},
+{
+"Country Code": "LSO",
+"Country Name": "Lesotho",
+"Value": 2203821,
+"Year": 2016
+},
+{
+"Country Code": "LBR",
+"Country Name": "Liberia",
+"Value": 4613823,
+"Year": 2016
+},
+{
+"Country Code": "LBY",
+"Country Name": "Libya",
+"Value": 6293253,
+"Year": 2016
+},
+{
+"Country Code": "LIE",
+"Country Name": "Liechtenstein",
+"Value": 37666,
+"Year": 2016
+},
+{
+"Country Code": "LTU",
+"Country Name": "Lithuania",
+"Value": 2872298,
+"Year": 2016
+},
+{
+"Country Code": "LUX",
+"Country Name": "Luxembourg",
+"Value": 582972,
+"Year": 2016
+},
+{
+"Country Code": "MAC",
+"Country Name": "Macao SAR, China",
+"Value": 612167,
+"Year": 2016
+},
+{
+"Country Code": "MKD",
+"Country Name": "Macedonia, FYR",
+"Value": 2081206,
+"Year": 2016
+},
+{
+"Country Code": "MDG",
+"Country Name": "Madagascar",
+"Value": 24894551,
+"Year": 2016
+},
+{
+"Country Code": "MWI",
+"Country Name": "Malawi",
+"Value": 18091575,
+"Year": 2016
+},
+{
+"Country Code": "MYS",
+"Country Name": "Malaysia",
+"Value": 31187265,
+"Year": 2016
+},
+{
+"Country Code": "MDV",
+"Country Name": "Maldives",
+"Value": 417492,
+"Year": 2016
+},
+{
+"Country Code": "MLI",
+"Country Name": "Mali",
+"Value": 17994837,
+"Year": 2016
+},
+{
+"Country Code": "MLT",
+"Country Name": "Malta",
+"Value": 436947,
+"Year": 2016
+},
+{
+"Country Code": "MHL",
+"Country Name": "Marshall Islands",
+"Value": 53066,
+"Year": 2016
+},
+{
+"Country Code": "MRT",
+"Country Name": "Mauritania",
+"Value": 4301018,
+"Year": 2016
+},
+{
+"Country Code": "MUS",
+"Country Name": "Mauritius",
+"Value": 1263473,
+"Year": 2016
+},
+{
+"Country Code": "MEX",
+"Country Name": "Mexico",
+"Value": 127540423,
+"Year": 2016
+},
+{
+"Country Code": "FSM",
+"Country Name": "Micronesia, Fed. Sts.",
+"Value": 104937,
+"Year": 2016
+},
+{
+"Country Code": "MDA",
+"Country Name": "Moldova",
+"Value": 3552000,
+"Year": 2016
+},
+{
+"Country Code": "MCO",
+"Country Name": "Monaco",
+"Value": 38499,
+"Year": 2016
+},
+{
+"Country Code": "MNG",
+"Country Name": "Mongolia",
+"Value": 3027398,
+"Year": 2016
+},
+{
+"Country Code": "MNE",
+"Country Name": "Montenegro",
+"Value": 622781,
+"Year": 2016
+},
+{
+"Country Code": "MAR",
+"Country Name": "Morocco",
+"Value": 35276786,
+"Year": 2016
+},
+{
+"Country Code": "MOZ",
+"Country Name": "Mozambique",
+"Value": 28829476,
+"Year": 2016
+},
+{
+"Country Code": "MMR",
+"Country Name": "Myanmar",
+"Value": 52885223,
+"Year": 2016
+},
+{
+"Country Code": "NAM",
+"Country Name": "Namibia",
+"Value": 2479713,
+"Year": 2016
+},
+{
+"Country Code": "NRU",
+"Country Name": "Nauru",
+"Value": 13049,
+"Year": 2016
+},
+{
+"Country Code": "NPL",
+"Country Name": "Nepal",
+"Value": 28982771,
+"Year": 2016
+},
+{
+"Country Code": "NLD",
+"Country Name": "Netherlands",
+"Value": 17018408,
+"Year": 2016
+},
+{
+"Country Code": "NCL",
+"Country Name": "New Caledonia",
+"Value": 278000,
+"Year": 2016
+},
+{
+"Country Code": "NZL",
+"Country Name": "New Zealand",
+"Value": 4692700,
+"Year": 2016
+},
+{
+"Country Code": "NIC",
+"Country Name": "Nicaragua",
+"Value": 6149928,
+"Year": 2016
+},
+{
+"Country Code": "NER",
+"Country Name": "Niger",
+"Value": 20672987,
+"Year": 2016
+},
+{
+"Country Code": "NGA",
+"Country Name": "Nigeria",
+"Value": 185989640,
+"Year": 2016
+},
+{
+"Country Code": "MNP",
+"Country Name": "Northern Mariana Islands",
+"Value": 55023,
+"Year": 2016
+},
+{
+"Country Code": "NOR",
+"Country Name": "Norway",
+"Value": 5232929,
+"Year": 2016
+},
+{
+"Country Code": "OMN",
+"Country Name": "Oman",
+"Value": 4424762,
+"Year": 2016
+},
+{
+"Country Code": "PAK",
+"Country Name": "Pakistan",
+"Value": 193203476,
+"Year": 2016
+},
+{
+"Country Code": "PLW",
+"Country Name": "Palau",
+"Value": 21503,
+"Year": 2016
+},
+{
+"Country Code": "PAN",
+"Country Name": "Panama",
+"Value": 4034119,
+"Year": 2016
+},
+{
+"Country Code": "PNG",
+"Country Name": "Papua New Guinea",
+"Value": 8084991,
+"Year": 2016
+},
+{
+"Country Code": "PRY",
+"Country Name": "Paraguay",
+"Value": 6725308,
+"Year": 2016
+},
+{
+"Country Code": "PER",
+"Country Name": "Peru",
+"Value": 31773839,
+"Year": 2016
+},
+{
+"Country Code": "PHL",
+"Country Name": "Philippines",
+"Value": 103320222,
+"Year": 2016
+},
+{
+"Country Code": "POL",
+"Country Name": "Poland",
+"Value": 37948016,
+"Year": 2016
+},
+{
+"Country Code": "PRT",
+"Country Name": "Portugal",
+"Value": 10324611,
+"Year": 2016
+},
+{
+"Country Code": "PRI",
+"Country Name": "Puerto Rico",
+"Value": 3411307,
+"Year": 2016
+},
+{
+"Country Code": "QAT",
+"Country Name": "Qatar",
+"Value": 2569804,
+"Year": 2016
+},
+{
+"Country Code": "ROU",
+"Country Name": "Romania",
+"Value": 19705301,
+"Year": 2016
+},
+{
+"Country Code": "RUS",
+"Country Name": "Russian Federation",
+"Value": 144342396,
+"Year": 2016
+},
+{
+"Country Code": "RWA",
+"Country Name": "Rwanda",
+"Value": 11917508,
+"Year": 2016
+},
+{
+"Country Code": "WSM",
+"Country Name": "Samoa",
+"Value": 195125,
+"Year": 2016
+},
+{
+"Country Code": "SMR",
+"Country Name": "San Marino",
+"Value": 33203,
+"Year": 2016
+},
+{
+"Country Code": "STP",
+"Country Name": "Sao Tome and Principe",
+"Value": 199910,
+"Year": 2016
+},
+{
+"Country Code": "SAU",
+"Country Name": "Saudi Arabia",
+"Value": 32275687,
+"Year": 2016
+},
+{
+"Country Code": "SEN",
+"Country Name": "Senegal",
+"Value": 15411614,
+"Year": 2016
+},
+{
+"Country Code": "SRB",
+"Country Name": "Serbia",
+"Value": 7057412,
+"Year": 2016
+},
+{
+"Country Code": "SYC",
+"Country Name": "Seychelles",
+"Value": 94677,
+"Year": 2016
+},
+{
+"Country Code": "SLE",
+"Country Name": "Sierra Leone",
+"Value": 7396190,
+"Year": 2016
+},
+{
+"Country Code": "SGP",
+"Country Name": "Singapore",
+"Value": 5607283,
+"Year": 2016
+},
+{
+"Country Code": "SXM",
+"Country Name": "Sint Maarten (Dutch part)",
+"Value": 40005,
+"Year": 2016
+},
+{
+"Country Code": "SVK",
+"Country Name": "Slovak Republic",
+"Value": 5428704,
+"Year": 2016
+},
+{
+"Country Code": "SVN",
+"Country Name": "Slovenia",
+"Value": 2064845,
+"Year": 2016
+},
+{
+"Country Code": "SLB",
+"Country Name": "Solomon Islands",
+"Value": 599419,
+"Year": 2016
+},
+{
+"Country Code": "SOM",
+"Country Name": "Somalia",
+"Value": 14317996,
+"Year": 2016
+},
+{
+"Country Code": "ZAF",
+"Country Name": "South Africa",
+"Value": 55908865,
+"Year": 2016
+},
+{
+"Country Code": "SSD",
+"Country Name": "South Sudan",
+"Value": 12230730,
+"Year": 2016
+},
+{
+"Country Code": "ESP",
+"Country Name": "Spain",
+"Value": 46443959,
+"Year": 2016
+},
+{
+"Country Code": "LKA",
+"Country Name": "Sri Lanka",
+"Value": 21203000,
+"Year": 2016
+},
+{
+"Country Code": "KNA",
+"Country Name": "St. Kitts and Nevis",
+"Value": 54821,
+"Year": 2016
+},
+{
+"Country Code": "LCA",
+"Country Name": "St. Lucia",
+"Value": 178015,
+"Year": 2016
+},
+{
+"Country Code": "MAF",
+"Country Name": "St. Martin (French part)",
+"Value": 31949,
+"Year": 2016
+},
+{
+"Country Code": "VCT",
+"Country Name": "St. Vincent and the Grenadines",
+"Value": 109643,
+"Year": 2016
+},
+{
+"Country Code": "SDN",
+"Country Name": "Sudan",
+"Value": 39578828,
+"Year": 2016
+},
+{
+"Country Code": "SUR",
+"Country Name": "Suriname",
+"Value": 558368,
+"Year": 2016
+},
+{
+"Country Code": "SWZ",
+"Country Name": "Swaziland",
+"Value": 1343098,
+"Year": 2016
+},
+{
+"Country Code": "SWE",
+"Country Name": "Sweden",
+"Value": 9903122,
+"Year": 2016
+},
+{
+"Country Code": "CHE",
+"Country Name": "Switzerland",
+"Value": 8372098,
+"Year": 2016
+},
+{
+"Country Code": "SYR",
+"Country Name": "Syrian Arab Republic",
+"Value": 18430453,
+"Year": 2016
+},
+{
+"Country Code": "TJK",
+"Country Name": "Tajikistan",
+"Value": 8734951,
+"Year": 2016
+},
+{
+"Country Code": "TZA",
+"Country Name": "Tanzania",
+"Value": 55572201,
+"Year": 2016
+},
+{
+"Country Code": "THA",
+"Country Name": "Thailand",
+"Value": 68863514,
+"Year": 2016
+},
+{
+"Country Code": "TLS",
+"Country Name": "Timor-Leste",
+"Value": 1268671,
+"Year": 2016
+},
+{
+"Country Code": "TGO",
+"Country Name": "Togo",
+"Value": 7606374,
+"Year": 2016
+},
+{
+"Country Code": "TON",
+"Country Name": "Tonga",
+"Value": 107122,
+"Year": 2016
+},
+{
+"Country Code": "TTO",
+"Country Name": "Trinidad and Tobago",
+"Value": 1364962,
+"Year": 2016
+},
+{
+"Country Code": "TUN",
+"Country Name": "Tunisia",
+"Value": 11403248,
+"Year": 2016
+},
+{
+"Country Code": "TUR",
+"Country Name": "Turkey",
+"Value": 79512426,
+"Year": 2016
+},
+{
+"Country Code": "TKM",
+"Country Name": "Turkmenistan",
+"Value": 5662544,
+"Year": 2016
+},
+{
+"Country Code": "TCA",
+"Country Name": "Turks and Caicos Islands",
+"Value": 34900,
+"Year": 2016
+},
+{
+"Country Code": "TUV",
+"Country Name": "Tuvalu",
+"Value": 11097,
+"Year": 2016
+},
+{
+"Country Code": "UGA",
+"Country Name": "Uganda",
+"Value": 41487965,
+"Year": 2016
+},
+{
+"Country Code": "UKR",
+"Country Name": "Ukraine",
+"Value": 45004645,
+"Year": 2016
+},
+{
+"Country Code": "ARE",
+"Country Name": "United Arab Emirates",
+"Value": 9269612,
+"Year": 2016
+},
+{
+"Country Code": "GBR",
+"Country Name": "United Kingdom",
+"Value": 65637239,
+"Year": 2016
+},
+{
+"Country Code": "USA",
+"Country Name": "United States",
+"Value": 323127513,
+"Year": 2016
+},
+{
+"Country Code": "URY",
+"Country Name": "Uruguay",
+"Value": 3444006,
+"Year": 2016
+},
+{
+"Country Code": "UZB",
+"Country Name": "Uzbekistan",
+"Value": 31848200,
+"Year": 2016
+},
+{
+"Country Code": "VUT",
+"Country Name": "Vanuatu",
+"Value": 270402,
+"Year": 2016
+},
+{
+"Country Code": "VEN",
+"Country Name": "Venezuela, RB",
+"Value": 31568179,
+"Year": 2016
+},
+{
+"Country Code": "VNM",
+"Country Name": "Vietnam",
+"Value": 92701100,
+"Year": 2016
+},
+{
+"Country Code": "VIR",
+"Country Name": "Virgin Islands (U.S.)",
+"Value": 102951,
+"Year": 2016
+},
+{
+"Country Code": "PSE",
+"Country Name": "West Bank and Gaza",
+"Value": 4551566,
+"Year": 2016
+},
+{
+"Country Code": "YEM",
+"Country Name": "Yemen, Rep.",
+"Value": 27584213,
+"Year": 2016
+},
+{
+"Country Code": "ZMB",
+"Country Name": "Zambia",
+"Value": 16591390,
+"Year": 2016
+},
+{
+"Country Code": "ZWE",
+"Country Name": "Zimbabwe",
+"Value": 16150362,
+"Year": 2016
+}
+]
